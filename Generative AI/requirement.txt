@@ -6,3 +6,4 @@ python-dotenv
 bs4
 pymupdf
 wikipedia
+langchain-text-splitters
