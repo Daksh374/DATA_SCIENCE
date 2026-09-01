@@ -9,3 +9,5 @@ wikipedia
 langchain-text-splitters
 sentence_transformers
 langchain_huggingface
+langchain-groq
+langchain_core
